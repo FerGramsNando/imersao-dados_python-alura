@@ -1,2 +1,2 @@
-# imersao-dados_python-alura
+# imersao-dados-python-alura
 Aula de imersão de dados com python realizado pela Plataforma de estudos Alura
